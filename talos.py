@@ -1,7 +1,7 @@
 import socket
 import time
 
-server = "adams.freenode.net"
+server = "irc.freenode.net"
 channel = "#Ephestos"
 nick = "Ephestos"
 port = 6667
