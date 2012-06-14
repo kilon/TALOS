@@ -3,7 +3,7 @@ import time
 
 server = "irc.freenode.net"
 channel = "#Ephestos"
-nick = "Ephestos"
+nick = "Talos"
 port = 6667
 symbol = "$"
 blank = ""
